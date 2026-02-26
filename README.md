@@ -4,7 +4,7 @@
 </a>
 </div>
 
-Backend Engineer • Go & Java/Spring • Microservices
+## Backend Engineer • Go & Java/Spring • Microservices
 
 - Focus: APIs, distributed systems, performance & reliability  
 - Principles: Clean Architecture, Clean Code, SOLID, best practices
